@@ -1,0 +1,5 @@
+Philip Massouh -- Lab 4
+
+create with 'make matrix'
+
+run with 'exec_matrix [max threads]'
